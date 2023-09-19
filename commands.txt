@@ -7,5 +7,7 @@
 6: git checkout com_Id # To revert the commit to previous version or specific ID version
 7: git log --all # to view all the commit ids
 8: git rm --cached file_name #To get back the staged work to working directory (Like If you enter git add . and wanna back the file_name in working dir)
-9: 
+9: git tag -a "V1.0" -m "This is version 01"
+10:git tag
+11: git show V1.0  
   
