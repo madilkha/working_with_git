@@ -1,7 +1,11 @@
-#The Important commands
+#  The Important commands
 1:git add . #  this will add all the files in staging area
 2: git status
 3: git commit -m "message"  #move it to git repo locally
 4: git push -u origin main
 5: git log #give you the history.
-6: 
+6: git checkout com_Id # To revert the commit to previous version or specific ID version
+7: git log --all # to view all the commit ids
+8: git rm --cached file_name #To get back the staged work to working directory (Like If you enter git add . and wanna back the file_name in working dir)
+9: 
+  
