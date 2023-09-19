@@ -1,2 +1,7 @@
 #The Important commands
-1: 
+1:git add . #  this will add all the files in staging area
+2: git status
+3: git commit -m "message"  #move it to git repo locally
+4: git push -u origin main
+5: git log #give you the history
+6: 
